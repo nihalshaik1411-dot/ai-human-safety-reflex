@@ -1,0 +1,5 @@
+streamlit>=1.20
+pandas
+sqlalchemy
+alembic==1.11.1  # optional, only if you want advanced migrations later
+python-dotenv
